@@ -1,0 +1,14 @@
+{
+    "name": "putaide/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "putaide",
+            "email": "3299751@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
