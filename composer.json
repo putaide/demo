@@ -2,7 +2,7 @@
     "name": "putaide/demo",
     "description": "a test composer project",
     "type": "project",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "putaide",
